@@ -1,18 +1,8 @@
 # Pig Librarian
 
-PigKeeper là ứng dụng quản lý chi tiêu cá nhân, chi tiêu gia đình hoặc tập thể với phiên bản đơn giản dễ dùng. Sổ Thu Chi không những giúp bạn ghi lại từng khoản chi tiêu một cách chi tiết mà còn sở hữu những công cụ giúp bạn làm chủ đồng tiền như: đặt ngân sách chi tiêu, quản lý nhiều ví và tài khoản, quản lý tiết kiệm, tiền gửi, v.v...
+TÍNH NĂNG
 
-TÍNH NĂNG:
-
-★ PigKeeper là một ứng dụng quản lý thu chi tốt với giao diện tiếng Việt thân thiện. Bạn có thể dễ dàng theo dõi được tình hình tài chính của mình theo thời gian.
-
-★ Ghi chép thu chi nhanh và tiện lợi: 
-
-★ Ghi lại đã chi/tiêu khoản gì, từ ví/tài khoản nào, vào lúc nào để theo dõi luồng tiền.
-
-★ Theo dõi số tiền vay/nợ để nhắc nhở giúp thanh toán đầy đủ. 
-
-★ Báo cáo theo hạng mục
+PigLibrarian là ứng dụng quản lý sách đơn giản ở trong thư viện hoặc nhà sách, đây là phiên bản đơn giản dễ dùng. Với ứng dụng này bạn có thể thêm, xoá sửa. Phân loại sách theo thể loại, ngày mua sách, tổng tiền và vài thứ lặt vặt khác v.v...
 
 <img src="app/src/main/res/drawable-v24/intro1.png" width="310" height="640">
 <img src="app/src/main/res/drawable-v24/intro.png" width="310" height="640">
